@@ -10,3 +10,7 @@ Basic OpenCV functions applied, used and learned.
 * Face and Eye detection
 
 ![Screenshot_1](https://user-images.githubusercontent.com/88316097/193111105-320eb7f7-e603-447b-afd1-7685b0307f06.png)
+
+* Russian plate detector and blur
+
+![image](https://user-images.githubusercontent.com/88316097/193261472-5fedf0cb-5172-450b-af97-e74bad5aa5d5.png)
