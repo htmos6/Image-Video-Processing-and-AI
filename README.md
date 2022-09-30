@@ -13,4 +13,4 @@ Basic OpenCV functions applied, used and learned.
 
 * Russian plate detector and blur
 
-![image](https://user-images.githubusercontent.com/88316097/193261472-5fedf0cb-5172-450b-af97-e74bad5aa5d5.png)
+![image](https://user-images.githubusercontent.com/88316097/193261557-d8653345-881e-4b4f-9b0b-85f48b744e22.png)
