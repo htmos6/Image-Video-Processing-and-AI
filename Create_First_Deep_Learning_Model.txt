@@ -1,0 +1,25 @@
+1) Download the dataset using Keras.
+
+2) Use matplotlib to view an image from the data set. It can be any image from the data set.
+
+3) Preprocessing the Data
+*  Normalize the X train and X test data by dividing by the max value of the image arrays.
+
+4) Reshape the X arrays to include a 4 dimension of the single channel. Similar to what we did for the numbers MNIST data set.
+
+5) Convert the y_train and y_test values to be one-hot encoded for categorical analysis by Keras.
+
+6) Building Model
+*  Use Keras to create a model consisting of at least the following layers (but feel free to experiment)
+
+7) compile the model with these parameters: loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy'] / Parameters can be adjusted accordingly.
+
+8) Training the Model
+*  Train/Fit the model to the x_train set. Amount of epochs is up to you.
+
+9) Evaluating the Model
+Show the accuracy,precision,recall,f1-score the model achieved on the x_test data set. Keep in mind, there are quite a few ways to do this,
+but we recommend following the same procedure we showed in the MNIST lecture.
+
+Your First Deep Learning Project in Python with Keras Step-by-Step 
+Usefull link: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
